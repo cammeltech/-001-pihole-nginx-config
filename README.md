@@ -1,7 +1,6 @@
-This is the default nginx config File to use pihole with nginx.
+This is the default nginx config File (/etc/nginx/sites-available/default) to use pihole with nginx.
 See the Youtube Videos for Details:
-
-#### GITEA & PIHOLE on a Raspberry Pi
+#### "GITEA & PIHOLE on a Raspberry Pi"
 German Youtube Video:
 https://www.youtube.com/watch?v=yZgrQ0V7zjA
 
