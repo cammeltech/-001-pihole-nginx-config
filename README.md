@@ -1,4 +1,7 @@
-This is the default nginx config File (/etc/nginx/sites-available/default) to use pihole with nginx.
+1) Default nginx config File (/etc/nginx/sites-available/default) to use pihole with nginx.
+2) my adlist.list file with +1,6M entries
+
+
 See the Youtube Videos for Details:
 #### "GITEA & PIHOLE on a Raspberry Pi"
 German Youtube Video:
